@@ -1,4 +1,5 @@
-package project.FinalTerm;
+package Project;
+
 
 public class personalInfo extends Verification {
 	

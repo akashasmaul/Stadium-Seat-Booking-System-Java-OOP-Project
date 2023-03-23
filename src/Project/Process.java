@@ -1,4 +1,4 @@
-package project.FinalTerm;
+package Project;
 
 import java.util.Scanner;
 

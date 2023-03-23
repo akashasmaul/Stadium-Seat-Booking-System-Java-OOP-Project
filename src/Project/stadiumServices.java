@@ -1,4 +1,5 @@
-package project.FinalTerm;
+package Project;
+
 
 public class stadiumServices extends Information {
 		

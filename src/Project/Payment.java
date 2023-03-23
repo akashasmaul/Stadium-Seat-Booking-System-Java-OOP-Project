@@ -1,4 +1,5 @@
-package project.FinalTerm;
+package Project;
+
 import java.util.Random;
 import java.util.Scanner;
 
